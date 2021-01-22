@@ -1,0 +1,10 @@
+{
+  "name": "toy-browser",
+  "version": "0.0.1",
+  "description": "了解浏览器原理,实现一个简单的浏览器",
+  "main": "index.js",
+  "repository": "https://github.com/wangxing-sunny/toy-browser.git",
+  "dependencies": {
+    "koa2": "^2.0.0-alpha.7"
+  }
+}
